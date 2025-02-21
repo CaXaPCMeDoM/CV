@@ -37,7 +37,7 @@
 - **Брокеры сообщений:** Apache Kafka, RabbitMQ  
 - **Инфраструктура:** Kubernetes (K8s), k6  
 - **Инструменты:** Git, Bash
-- **Протоколы** gRPC, Rest/HTTP
+- **Протоколы** gRPC, REST/HTTP
 
 **ОС:** Linux (Ubuntu, CentOS, Debian)  
 
