@@ -36,7 +36,8 @@
 - **Базы данных:** PostgreSQL, MongoDB, MySQL, Redis  
 - **Брокеры сообщений:** Apache Kafka, RabbitMQ  
 - **Инфраструктура:** Kubernetes (K8s), k6  
-- **Инструменты:** Git, Bash  
+- **Инструменты:** Git, Bash
+- **Протоколы** gRPC, Rest/HTTP
 
 **ОС:** Linux (Ubuntu, CentOS, Debian)  
 
