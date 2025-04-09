@@ -40,6 +40,7 @@
 - **Инфраструктура:** Kubernetes (K8s), k6, Docker
 - **Инструменты:** Git, Bash
 - **Протоколы** gRPC, REST/HTTP
+- **Другое** gin, fiber, echo
 
 **ОС:** Linux (Ubuntu, CentOS, Debian)  
 
